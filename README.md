@@ -1,0 +1,1 @@
+This repository contains the code to calculate the bootstrapped KM curves, relative risks, and absolute risk reduction between patients who initiated Nirmatrelvir/Ritonavir (NMV-R) and patients who did not get a prescription for NMV-R. 
