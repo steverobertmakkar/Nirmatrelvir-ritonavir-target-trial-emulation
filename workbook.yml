@@ -1,10 +1,10 @@
 ---
-rid: "ri.vector.main.workbook.a7ee5694-cef7-4f06-82bf-ca86f3123d0d"
-repositoryRid: "ri.stemma.main.repository.55b25487-45bb-4e4b-9f66-45c4115cc4fb"
+rid: "ri.vector.main.workbook.6fe0c75a-ba57-4e56-b9d4-2549b9d24ae1"
+repositoryRid: "ri.stemma.main.repository.3f89ade5-8a14-4c9f-88d4-9a3e7990bd80"
 environmentRepositoryRid: null
 backingRepositoryRids: []
-outputFolderRid: "ri.compass.main.folder.184e75ab-2603-4d3b-b842-9f3b46ffff81"
-comparisonParentFolderRid: "ri.compass.main.folder.bf0022b8-c07f-4477-a8a9-d0c7722d354b"
+outputFolderRid: "ri.compass.main.folder.3d90a37e-4040-49a4-bfdb-9574be7045e2"
+comparisonParentFolderRid: "ri.compass.main.folder.18433959-67b9-4b59-8f9b-01ff8793d133"
 legacyVectorLanguage: null
 autoLayoutPaths: false
 useProjectScope: true
